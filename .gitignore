@@ -4,6 +4,8 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+test.md
+
 # Other files and folders
 .settings/
 
